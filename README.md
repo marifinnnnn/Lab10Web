@@ -429,3 +429,23 @@ Fungsi PHP include() dan require() merupakan fungsi yang digunakan untuk menyert
 # Pertanyaan dan Tugas
 
 Implementasikan konsep modularisasi pada kode program pada praktikum sebelumnya dengan menggunakan class library untuk form dan database connection.
+
+1. Masuk ke menu "home" header dan footer merupakan impelementasi praktikum sebelumnya, dan dibagian content merupakan OOP motor yang menambahkan beberapa objek yang lainnya
+
+2. Masuk ke menu "about" sama seperti praktikum sebelumnya dan dibagian isi sudah saya jelaskan
+
+3. Masuk ke menu "form" header dan footer merupakan implementasi praktikum sebelumnya, dan dibagian content membuat form input data ketika di submit akan tersimpan datanya di database
+
+4. Menampilkan pesan "localhost says" yang tandanya data sudah berhasil disimpan
+
+5. Ketika kita lihat, bahwa data yang sudah di input tadi akan masuk ke dalam database phpmyadmin
+
+6. Masuk ke menu "contact" sama seperti praktikum sebelumnya dan dibagian isi sudah saya jelaskan
+
+7. Masuk ke menu "data form" menampilkan data dalam bentuk tabel yang sudah tadi kita input, dimana datanya tersebut sudah masuk ke dalam database phpmyadmin
+
+8. Klik pada bagian menu aksi yaitu button update dan pilih data yang ingin di ubah, semisalkan disini  rido pikriyansyah status "aktif" menjadi "tidak aktif"
+
+9. Maka data tersebut berhasil di update/ubah dan status rido pikriyansyah menjadi "tidak aktif"
+
+10. Klik pada bagian menu aksi yaitu button delete dan pilih data yang ingin di hapus, semisalkan disini alif dwi putra dihapus dan data sudah berhasil terhapus
